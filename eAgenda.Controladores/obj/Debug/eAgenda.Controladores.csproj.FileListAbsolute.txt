@@ -1,0 +1,14 @@
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\bin\Debug\eAgenda.Controladores.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\bin\Debug\eAgenda.Controladores.pdb
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\bin\Debug\eAgenda.Dominio.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\bin\Debug\Description.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\bin\Debug\eAgenda.Dominio.pdb
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\bin\Debug\Description.pdb
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\bin\Debug\Description.xml
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\obj\Debug\eAgenda.Controladores.csproj.AssemblyReference.cache
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\obj\Debug\eAgenda.Controladores.csproj.CoreCompileInputs.cache
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\obj\Debug\eAgenda.Controladores.csproj.CopyComplete
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\obj\Debug\eAgenda.Controladores.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.Controladores\obj\Debug\eAgenda.Controladores.pdb

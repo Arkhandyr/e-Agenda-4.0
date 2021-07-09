@@ -1,0 +1,11 @@
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\e-Agenda.Dominio\bin\Debug\eAgenda.Dominio.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\e-Agenda.Dominio\bin\Debug\eAgenda.Dominio.pdb
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\e-Agenda.Dominio\bin\Debug\Description.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\e-Agenda.Dominio\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\e-Agenda.Dominio\bin\Debug\Description.pdb
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\e-Agenda.Dominio\bin\Debug\Description.xml
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\e-Agenda.Dominio\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\e-Agenda.Dominio\obj\Debug\eAgenda.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\e-Agenda.Dominio\obj\Debug\eAgenda.Dominio.csproj.CopyComplete
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\e-Agenda.Dominio\obj\Debug\eAgenda.Dominio.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\e-Agenda.Dominio\obj\Debug\eAgenda.Dominio.pdb

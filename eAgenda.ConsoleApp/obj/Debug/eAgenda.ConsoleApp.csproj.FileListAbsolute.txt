@@ -1,0 +1,17 @@
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\bin\Debug\eAgenda.ConsoleApp.pdb
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\bin\Debug\eAgenda.Controladores.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\bin\Debug\eAgenda.Dominio.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\bin\Debug\Description.dll
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\bin\Debug\eAgenda.Dominio.pdb
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\bin\Debug\eAgenda.Controladores.pdb
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\bin\Debug\Description.pdb
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\bin\Debug\Description.xml
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\obj\Debug\eAgenda.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\obj\Debug\eAgenda.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\obj\Debug\eAgenda.ConsoleApp.csproj.CopyComplete
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\obj\Debug\eAgenda.ConsoleApp.pdb
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\bin\Debug\eAgenda.ConsoleApp.exe.config
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\bin\Debug\eAgenda.ConsoleApp.exe
+C:\Users\Arkhandyr\Source\Repos\e-Agenda\eAgenda.ConsoleApp\obj\Debug\eAgenda.ConsoleApp.exe
